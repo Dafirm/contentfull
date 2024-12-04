@@ -7,16 +7,15 @@ const Hero = () => {
         <div className="hero-title">
           <h1>Contentful CMS </h1>
           <p>
-            Small batch brunch tattooed lumbersexual, paleo yuccie tbh plaid.
-            Bespoke intelligentsia +1, thundercats viral pok pok slow-carb
-            master cleanse vape tumeric williamsburg unicorn. Health goth
-            microdosing fit, sustainable aesthetic quinoa shabby chic. Pickled
-            next level mustache pug fit messenger bag palo santo blue bottle
-            tbh.
+            Discover a curated list of
+            innovative projects that I’ve worked on, showcasing my skills in
+            development, design, and problem-solving. Each project is a unique
+            journey, highlighting my commitment to delivering impactful
+            solutions.
           </p>
         </div>
         <div className="img-container">
-            <img src={heroImg} alt="woman and the browser" className='img' />
+          <img src={heroImg} alt="woman and the browser" className="img" />
         </div>
       </div>
     </section>
